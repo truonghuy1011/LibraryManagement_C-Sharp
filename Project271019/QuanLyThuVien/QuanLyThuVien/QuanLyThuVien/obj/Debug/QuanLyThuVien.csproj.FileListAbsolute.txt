@@ -1,0 +1,39 @@
+E:\text\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+E:\text\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\text\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojAssemblyReference.cache
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDangNhap.resources
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormChildren.FormDocGia.resources
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormChildren.FormQuanLyPhieu.resources
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormChildren.FormQuanLySach.resources
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormChildren.FormQuanTri.resources
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormChildren.FormThongKe.resources
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDad.FormPerson.resources
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDad.FormGuest.resources
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormChildren.FormThongTin.resources
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormChildren.FormDoiMatKhau.resources
+E:\text\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDad.FormLoad.resources
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csprojResolveAssemblyReference.cache
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormChildren.FormDocGia.resources
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormChildren.FormDoiMatKhau.resources
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormChildren.FormQuanLyPhieu.resources
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormChildren.FormQuanLySach.resources
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormChildren.FormQuanTri.resources
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormChildren.FormThongKe.resources
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormChildren.FormThongTin.resources
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDad.FormGuest.resources
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDad.FormLoad.resources
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDangNhap.resources
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.FormDad.FormPerson.resources
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.Cache
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+D:\BTL C#\Project271019\QuanLyThuVien\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb

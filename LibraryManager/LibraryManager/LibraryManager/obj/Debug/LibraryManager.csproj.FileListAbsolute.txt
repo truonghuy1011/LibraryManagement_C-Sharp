@@ -1,0 +1,27 @@
+H:\ProjectC#\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe.config
+H:\ProjectC#\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe
+H:\ProjectC#\LibraryManager\LibraryManager\bin\Debug\LibraryManager.pdb
+H:\ProjectC#\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csprojAssemblyReference.cache
+H:\ProjectC#\LibraryManager\LibraryManager\obj\Debug\LibraryManager.Form1.resources
+H:\ProjectC#\LibraryManager\LibraryManager\obj\Debug\LibraryManager.Properties.Resources.resources
+H:\ProjectC#\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.GenerateResource.cache
+H:\ProjectC#\LibraryManager\LibraryManager\obj\Debug\LibraryManager.exe
+H:\ProjectC#\LibraryManager\LibraryManager\obj\Debug\LibraryManager.pdb
+H:\ProjectC#\LibraryManager\LibraryManager\bin\Debug\DevComponents.DotNetBar2.dll
+H:\ProjectC#\LibraryManager\LibraryManager\bin\Debug\DevComponents.DotNetBar2.xml
+H:\ProjectC#\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.CopyComplete
+H:\ProjectC#\LibraryManager\LibraryManager\obj\Debug\LibraryManager.FormThongTin.resources
+H:\ProjectC#\LibraryManager\LibraryManager\obj\Debug\LibraryManager.FormDangNhap.resources
+D:\BTL C#\LibraryManager\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csprojResolveAssemblyReference.cache
+D:\BTL C#\LibraryManager\LibraryManager\LibraryManager\obj\Debug\LibraryManager.FormThongTin.resources
+D:\BTL C#\LibraryManager\LibraryManager\LibraryManager\obj\Debug\LibraryManager.FormDangNhap.resources
+D:\BTL C#\LibraryManager\LibraryManager\LibraryManager\obj\Debug\LibraryManager.Properties.Resources.resources
+D:\BTL C#\LibraryManager\LibraryManager\LibraryManager\obj\Debug\LibraryManager.csproj.GenerateResource.Cache
+D:\BTL C#\LibraryManager\LibraryManager\LibraryManager\obj\Debug\LibraryManager.exe
+D:\BTL C#\LibraryManager\LibraryManager\LibraryManager\obj\Debug\LibraryManager.pdb
+D:\BTL C#\LibraryManager\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe.config
+D:\BTL C#\LibraryManager\LibraryManager\LibraryManager\bin\Debug\LibraryManager.exe
+D:\BTL C#\LibraryManager\LibraryManager\LibraryManager\bin\Debug\LibraryManager.pdb
+D:\BTL C#\LibraryManager\LibraryManager\LibraryManager\bin\Debug\DevComponents.DotNetBar2.xml
+D:\BTL C#\LibraryManager\LibraryManager\LibraryManager\obj\Debug\LibraryManager.FormDocGia.resources
+D:\BTL C#\LibraryManager\LibraryManager\LibraryManager\obj\Debug\LibraryManager.FormTrangChu.resources
